@@ -1,0 +1,15 @@
+/home/kate/Desktop/task/bin/Debug/net7.0/task
+/home/kate/Desktop/task/bin/Debug/net7.0/task.deps.json
+/home/kate/Desktop/task/bin/Debug/net7.0/task.runtimeconfig.json
+/home/kate/Desktop/task/bin/Debug/net7.0/task.dll
+/home/kate/Desktop/task/bin/Debug/net7.0/task.pdb
+/home/kate/Desktop/task/obj/Debug/net7.0/task.csproj.AssemblyReference.cache
+/home/kate/Desktop/task/obj/Debug/net7.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/home/kate/Desktop/task/obj/Debug/net7.0/task.AssemblyInfoInputs.cache
+/home/kate/Desktop/task/obj/Debug/net7.0/task.AssemblyInfo.cs
+/home/kate/Desktop/task/obj/Debug/net7.0/task.csproj.CoreCompileInputs.cache
+/home/kate/Desktop/task/obj/Debug/net7.0/task.dll
+/home/kate/Desktop/task/obj/Debug/net7.0/refint/task.dll
+/home/kate/Desktop/task/obj/Debug/net7.0/task.pdb
+/home/kate/Desktop/task/obj/Debug/net7.0/task.genruntimeconfig.cache
+/home/kate/Desktop/task/obj/Debug/net7.0/ref/task.dll
